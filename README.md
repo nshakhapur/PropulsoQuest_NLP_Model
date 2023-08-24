@@ -14,6 +14,10 @@ This repository contains a Natural Language Processing (NLP) model tailored for 
 ## Website Link:
 ### https://propulsoquest.streamlit.app/
 
+## Questions you can ask:
+1. what is the primary goal of the papers?
+2. How can we observe the burning rates?
+
 ## Note
 
 This model is based on a huge data, hence cannot be deployed independently. 
