@@ -1,3 +1,4 @@
+
 # PropulsoQuest
 
 ## Overview
@@ -27,10 +28,12 @@ It is a practice model, hence results might not be accurate at a times.
 
 ## Example Usage
 ### Introduction Page
-![Web capture_24-8-2023_212634_localhost](https://github.com/nshakhapur/Propulsion_Answering_NLP_Model/assets/96770503/3bf68486-afff-41c6-a874-71eff9a58d70)
+![Web capture_24-8-2023_212634_localhost](https://github.com/nshakhapur/PropulsoQuest_NLP_Model/assets/96770503/fa599589-38cd-40dd-a633-2b2fcdfccd64)
 ### First Question and Generated answer
-![Web capture_24-8-2023_213211_localhost](https://github.com/nshakhapur/Propulsion_Answering_NLP_Model/assets/96770503/6c619564-c7d1-49b9-aa5f-4417044967e7)
+![Web capture_24-8-2023_213211_localhost](https://github.com/nshakhapur/PropulsoQuest_NLP_Model/assets/96770503/f6eacaee-84ba-4a4f-a8e5-ee5066c16c3a)
 ### Second Question and Generated answer
-![Web capture_24-8-2023_213511_localhost](https://github.com/nshakhapur/Propulsion_Answering_NLP_Model/assets/96770503/364883fd-f199-47ea-9598-5f539ce7bf7b)
+![Web capture_24-8-2023_213511_localhost](https://github.com/nshakhapur/PropulsoQuest_NLP_Model/assets/96770503/4b2bdbea-f5e7-43da-b5b2-b1ea115dd61a)
+
+
 
 
